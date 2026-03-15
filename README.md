@@ -3,7 +3,7 @@ White label projects repository
 
 ## Book for Paid Apps Demo to: `hanifabd23@gmail.com`
 
-# Paid Services
+# Paid Services (Negotiable Price)
 
 |App|Desc|Price (USD)|
 |---|---|---|
