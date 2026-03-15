@@ -1,7 +1,7 @@
 # offwhite-layers-project
 White label projects repository
 
-## Book for Apps Demo to: `hanifabd23@gmail.com`
+## Book for Apps Demo to: [LinkedIn](linkedin.com/in/hanifabdlh/)
 
 # Paid Services (Negotiable Price)
 
