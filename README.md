@@ -1,7 +1,7 @@
 # OFF WHITE LAYERS - White Label Applications and Modules Repository
 A collection of reusable white-label applications, modules, and templates built to accelerate product development, enabling easy customization, branding, and scalable deployment.
 
-## Book for Apps Demo to: [LinkedIn](linkedin.com/in/hanifabdlh/)
+## Book for Apps Demo to: [LinkedIn](https://linkedin.com/in/hanifabdlh/)
 
 # Paid Services (Negotiable Price)
 
