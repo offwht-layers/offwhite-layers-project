@@ -7,8 +7,8 @@ White label projects repository
 
 |App|Desc|Price (USD)|
 |---|---|---|
-|File Manager System|A simple and scalable File Manager Application that provides core file and folder management functionality. This service is designed to support hierarchical storage, soft deletion, and future extensibility such as file search capabilities. Features: File and Folders Manager, Vector Search and Full-Text Search Engine, RAG Endpoint|💲699<br>`On-Dev`|
-|Custom Wrapped Async vLLM Engine|A lightweight wrapper for running vLLM with an asynchronous interface, simplifying integration with modern Python applications and scalable LLM services.|💲499|
+|File Manager Systems|A simple and scalable File Manager Application that provides core file and folder management functionality. This service is designed to support hierarchical storage, soft deletion, and future extensibility such as file search capabilities. Features: File and Folders Manager, Vector Search and Full-Text Search Engine, RAG Endpoint|💲799<br>`On-Dev`|
+|Custom Wrapped (FastApi) Async vLLM Engine|A lightweight wrapper for running vLLM with an asynchronous interface, simplifying integration with modern Python applications and scalable LLM services.|💲499|
 |Telegram Guest Booking System|Telegram Notification for Guest Booking|💲39|
 
 
